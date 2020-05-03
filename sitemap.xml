@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>http://alicepaixao.me/</loc>
+    <lastmod>2020-05-03T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://alicepaixao.me/posts/write-here/</loc>
+    <lastmod>2020-05-03T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://alicepaixao.me/posts/</loc>
+    <lastmod>2020-05-03T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://alicepaixao.me/about/</loc>
+  </url>
+  
+  <url>
+    <loc>http://alicepaixao.me/categories/</loc>
+  </url>
+  
+  <url>
+    <loc>http://alicepaixao.me/contact/</loc>
+  </url>
+  
+  <url>
+    <loc>http://alicepaixao.me/snippets/first/</loc>
+  </url>
+  
+  <url>
+    <loc>http://alicepaixao.me/projects/</loc>
+  </url>
+  
+  <url>
+    <loc>http://alicepaixao.me/snippets/second/</loc>
+  </url>
+  
+  <url>
+    <loc>http://alicepaixao.me/series/</loc>
+  </url>
+  
+  <url>
+    <loc>http://alicepaixao.me/snippets/</loc>
+  </url>
+  
+  <url>
+    <loc>http://alicepaixao.me/tags/</loc>
+  </url>
+  
+</urlset>

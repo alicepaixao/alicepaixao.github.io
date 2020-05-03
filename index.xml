@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>alicepaixao.me</title>
+    <link>http://alicepaixao.me/</link>
+    <description>Recent content on alicepaixao.me</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sun, 03 May 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://alicepaixao.me/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>I&#39;m getting ready to write here</title>
+      <link>http://alicepaixao.me/posts/write-here/</link>
+      <pubDate>Sun, 03 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://alicepaixao.me/posts/write-here/</guid>
+      <description>&lt;h2 id=&#34;while-it-appreciates-the-beauty-of-my-cats&#34;&gt;While it appreciates the beauty of my cats&amp;hellip;&lt;/h2&gt;
+&lt;figure&gt;
+    &lt;img src=&#34;http://alicepaixao.me/images/babys.jpeg&#34;/&gt; 
+&lt;/figure&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>http://alicepaixao.me/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://alicepaixao.me/about/</guid>
+      <description>&lt;p&gt;I have 7+ years like IT professional.&lt;/p&gt;
+&lt;h2 id=&#34;current-work&#34;&gt;Current Work&lt;/h2&gt;
+&lt;p&gt;I&amp;rsquo;m Consultant Developer (DevOps Engineer) for &lt;a href=&#34;https://www.thoughtworks.com/&#34;&gt;ThoughtWorks&lt;/a&gt;, currently allocated at Restaurant based in the U.S. states,
+10th in QSR Magazine&amp;rsquo;s rankings of the top 50 quick-service and fast-casual restaurant brands in the nation.&lt;/p&gt;
+&lt;h2 id=&#34;past-employers&#34;&gt;Past Employers&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.sympla.com.br/&#34;&gt;Sympla&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://sisloc.com/&#34;&gt;Sisloc Softwares&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.pucminas.br/&#34;&gt;PUC MINAS&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;hard-skills&#34;&gt;Hard Skills&lt;/h2&gt;
+&lt;p&gt;Programming Languages: C#, C/C++, Java, Python, PHP&lt;/p&gt;
+&lt;p&gt;Databases: MySQL, SQL Server, PostgreSQL&lt;/p&gt;
+&lt;p&gt;Version Tools: Git&lt;/p&gt;
+&lt;p&gt;Project Management Tools: GitHub, Bitbucket, Trello, Jira&lt;/p&gt;
+&lt;p&gt;Methodologies: BDD, Pair Programming, Kanban, Agile&lt;/p&gt;
+&lt;p&gt;Cloud Infrastructure: AWS, GCP, Azure&lt;/p&gt;
+&lt;p&gt;Find more in my &lt;a href=&#34;https://www.linkedin.com/in/alicepaixao/&#34;&gt;LinkedIn&lt;/a&gt; profile.&lt;/p&gt;
+&lt;h2 id=&#34;facts-about-me&#34;&gt;Facts about me&lt;/h2&gt;
+&lt;p&gt;I have three cats&lt;/p&gt;
+&lt;p&gt;I injured my knee just walking&lt;/p&gt;
+&lt;p&gt;I&amp;rsquo;ve lost count of how many tattoos I have&lt;/p&gt;
+&lt;p&gt;Also I love wearing printed shirts&lt;/p&gt;
+&lt;p&gt;Thanks for reading ♡&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>http://alicepaixao.me/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://alicepaixao.me/contact/</guid>
+      <description>&lt;p&gt;Send me a email, &lt;a href=&#34;mailto:paixaogomesalice@gmail.com&#34;&gt;paixaogomesalice@gmail.com&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>First snippet</title>
+      <link>http://alicepaixao.me/snippets/first/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://alicepaixao.me/snippets/first/</guid>
+      <description>&lt;p&gt;This content is in &lt;code&gt;snippets/first/index.md&lt;/code&gt;&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre style=&#34;color:#e5e5e5;background-color:#000;-moz-tab-size:4;-o-tab-size:4;tab-size:4&#34;&gt;&lt;code class=&#34;language-sh&#34; data-lang=&#34;sh&#34;&gt;&lt;span style=&#34;color:#fff;font-weight:bold&#34;&gt;pwd&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;</description>
+    </item>
+    
+    <item>
+      <title>Projects</title>
+      <link>http://alicepaixao.me/projects/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://alicepaixao.me/projects/</guid>
+      <description>&lt;p&gt;Nothing to see here&amp;hellip; Move along!&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Second snippet</title>
+      <link>http://alicepaixao.me/snippets/second/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://alicepaixao.me/snippets/second/</guid>
+      <description>&lt;p&gt;This content is in &lt;code&gt;snippets/second/index.md&lt;/code&gt;&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre style=&#34;color:#e5e5e5;background-color:#000;-moz-tab-size:4;-o-tab-size:4;tab-size:4&#34;&gt;&lt;code class=&#34;language-sh&#34; data-lang=&#34;sh&#34;&gt;ls -la
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
